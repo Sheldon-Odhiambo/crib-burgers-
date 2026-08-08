@@ -1,0 +1,6 @@
+{
+  "name": "Crib Burgers",
+  "description": "Crib Burgers - The Ultimate Flavor Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
